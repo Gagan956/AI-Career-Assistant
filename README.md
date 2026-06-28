@@ -1,7 +1,9 @@
 ````markdown
 # 🚀 AI Career Assistant
 
-AI Career Assistant is a  AI-powered web application built using **React**, **Node.js**, **Express.js**, and **Google Gemini AI**. It helps developers and job seekers enhance their technical knowledge and interview preparation by providing AI-driven assistance for concept explanations, interview questions, code reviews, SQL query generation, text summarization, and professional email drafting.
+AI Career Assistant is a  AI-powered web application built using **React**, **Node.js**, **Express.js**, and **Google Gemini AI**.
+It helps developers and job seekers enhance their technical knowledge and interview preparation by providing AI-driven assistance for
+ concept explanations, interview questions, code reviews, SQL query generation, text summarization, and professional email drafting.
 
 ---
 
